@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "creating a package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "hello!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekevinhuang/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekevinhuang/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/thekevinhuang/npm-lab-v-000#readme"
+}
